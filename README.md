@@ -265,17 +265,6 @@ Visit `http://localhost:8000/login.php` to get started.
 
 ---
 
-## 🚀 Future Improvements
-
-- [ ] Move all database and payment credentials to environment variables
-- [ ] Migrate procedural PHP to an MVC framework (e.g. Laravel) for maintainability
-- [ ] Add real-time order status updates (WebSockets/polling)
-- [ ] Google OAuth login (scaffolding already present in `login.php`)
-- [ ] Automated cleanup of old uploaded files
-- [ ] Admin analytics dashboard (revenue, peak hours, popular print settings)
-
----
-
 ## 👥 Team — Software Development Cell
 
 - Abinaya Devadarshini D — 22CSE
