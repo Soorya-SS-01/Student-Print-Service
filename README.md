@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=650&lines=PHP+%2B+MySQL+Powered+Print+Portal;Upload+%7C+Pay+%7C+Track+%7C+Collect;Used+by+1%2C000%2B+Students)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=650&lines=PHP+%2B+MySQL+Powered+Print+Portal;Upload+%7C+Pay+%7C+Track+%7C+Collect;Used+by+1%2C000%2B+Students+%7C+4%2C000%2B+Orders)](https://git.io/typing-svg)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
