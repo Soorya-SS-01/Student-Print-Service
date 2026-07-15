@@ -2,6 +2,12 @@
 
 <div align="center">
 
+### 🚀 Trusted by 1,000+ Students &nbsp;|&nbsp; 4,000+ Print Orders Delivered
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=650&lines=PHP+%2B+MySQL+Powered+Print+Portal;Upload+%7C+Pay+%7C+Track+%7C+Collect;Used+by+1%2C000%2B+Students+%7C+4%2C000%2B+Orders)](https://git.io/typing-svg)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -11,6 +17,61 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+</div>
+
+---
+
+## 💬 Impact & Feedback
+
+**Student Print Service** has made a real difference on campus — cutting queue times at the print shop, saving students hours every semester, and giving PSG Institute of Technology and Applied Research a faster, more organized way to handle printing. Here's what the **faculty and students** who used it had to say — **21 anonymous testimonials**, straight from the people who felt the impact firsthand.
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F1.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F2.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F3.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F4.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F5.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F6.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F7.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F8.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F9.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F10.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F11.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F12.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F13.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F14.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F15.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F16.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F17.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F18.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F19.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F20.png" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="FeedBacks/F21.png" width="100%"/></td>
+<td width="50%"></td>
+</tr>
+</table>
 </div>
 
 ---
