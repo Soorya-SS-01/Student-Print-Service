@@ -28,7 +28,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F1.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F1.jpg" width="100%"/></td>
 <td width="50%" align="center"><img src="FeedBacks/F2.png" width="100%"/></td>
 </tr>
 <tr>
