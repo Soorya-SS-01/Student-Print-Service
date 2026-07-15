@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Trusted by 1,000+ Students &nbsp;|&nbsp; 4,000+ Print Orders Delivered
+###  Trusted by 1,000+ Students &nbsp;|&nbsp; 4,000+ Print Orders Delivered
 
 </div>
 
