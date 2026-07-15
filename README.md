@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Student%20Print%20Service&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Online%20Printing%20Portal%20for%20College%20Campuses&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Student%20Print%20Service&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Online%20Printing%20Portal%20for%20College%20Campuses&descAlignY=62&descSize=26" width="100%"/>
 
 <div align="center">
 
