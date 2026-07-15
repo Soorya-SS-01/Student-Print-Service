@@ -27,7 +27,7 @@
 
 <div align="center">
 
-# Hear It From the People Who Used It — Feedback From Our Students & Faculty - Real Feedback From Real Users! 
+#🔥 Hear It From the People Who Used It — Feedback From Our Students & Faculty !
 
 ### 21 Anonymous Voices from Faculty & Students Who Lived the Difference 👇
 
