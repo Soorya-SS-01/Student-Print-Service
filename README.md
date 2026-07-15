@@ -168,7 +168,7 @@ flowchart TD
     E --> F{"Payment\nSuccessful?"}
     F -- "No" --> G["❌ payment_failed.php"]
     G --> E
-    F -- "Yes" --> H["✅ payment_success.php\nOrder confirmed and 4 digit order number is Generated"]
+    F -- "Yes" --> H["✅ payment_success.php\nOrder Confirmed and 4-Digit Order Number Generated"]
     H --> I["📊 Order visible in\nHistory with status + Order Details"]
 
     I --> J["🖥️ Admin Dashboard\nReviews Order"]
@@ -180,7 +180,7 @@ flowchart TD
     M --> O["📧 Email: Order Rejected"]
 
     N --> P["🖨️ Print Shop Fulfills Order"]
-    P --> Q["📥 Student Collects Printout by saying the 4 digit order number"]
+    P --> Q["📥 Student Collects Printout (Verified via 4-Digit Order Number)"]
     Q --> R["📈 Logged in Daily Collection Report"]
 ```
 
