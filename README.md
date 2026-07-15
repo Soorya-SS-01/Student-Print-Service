@@ -168,7 +168,7 @@ flowchart TD
     E --> F{"Payment\nSuccessful?"}
     F -- "No" --> G["❌ payment_failed.php"]
     G --> E
-    F -- "Yes" --> H["✅ payment_success.php\nOrder confirmed and 4 digit code is geenrated"]
+    F -- "Yes" --> H["✅ payment_success.php\nOrder confirmed and 4 digit order number is Generated"]
     H --> I["📊 Order visible in\nHistory with status + Order Details"]
 
     I --> J["🖥️ Admin Dashboard\nReviews Order"]
