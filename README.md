@@ -27,7 +27,7 @@
 
 <div align="center">
 
-# 🔥 Don't Just Read About the Impact — See It, In Their Own Words! 🔥
+# Hear It From the People Who Used It — Feedback From Our Students & Faculty - Real Feedback From Real Users! 
 
 ### 21 Anonymous Voices from Faculty & Students Who Lived the Difference 👇
 
