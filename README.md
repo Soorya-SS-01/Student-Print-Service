@@ -23,52 +23,60 @@
 
 ## 💬 Impact & Feedback
 
-**Student Print Service** has made a real difference on campus — cutting queue times at the print shop, saving students hours every semester, and giving PSG Institute of Technology and Applied Research a faster, more organized way to handle printing. Here's what the **faculty and students** who used it had to say — **21 anonymous testimonials**, straight from the people who felt the impact firsthand.
+**Student Print Service** has made a real difference on campus — cutting queue times at the print shop, saving students hours every semester, and giving PSG Institute of Technology and Applied Research a faster, more organized way to handle printing.
+
+<div align="center">
+
+# 🔥 Don't Just Read About the Impact — See It, In Their Own Words! 🔥
+
+### 21 Anonymous Voices from Faculty & Students Who Lived the Difference 👇
+
+</div>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center"><img src="FeedBacks/F1.jpg" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F2.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F2.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F3.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F4.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F3.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F4.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F5.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F6.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F5.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F6.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F7.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F8.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F7.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F8.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F9.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F10.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F9.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F10.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F11.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F12.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F11.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F12.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F13.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F14.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F13.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F14.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F15.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F16.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F15.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F16.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F17.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F18.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F17.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F18.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F19.png" width="100%"/></td>
-<td width="50%" align="center"><img src="FeedBacks/F20.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F19.jpg" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F20.jpg" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="FeedBacks/F21.png" width="100%"/></td>
+<td width="50%" align="center"><img src="FeedBacks/F21.jpg" width="100%"/></td>
 <td width="50%"></td>
 </tr>
 </table>
